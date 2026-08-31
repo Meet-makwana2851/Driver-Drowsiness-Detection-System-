@@ -1,0 +1,12 @@
+{
+  "accuracy": 0.6789617486338798,
+  "precision": 0.6764588085583934,
+  "recall": 0.6789617486338798,
+  "f1_score": 0.6530168718154291,
+  "class_labels": [
+    "Closed_Eyes",
+    "No_yawn",
+    "Open_Eyes",
+    "Yawn"
+  ]
+}
